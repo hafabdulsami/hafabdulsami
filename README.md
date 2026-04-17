@@ -81,14 +81,31 @@ experience: "Production-level apps with real users"
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Let’s+connect+and+build+something+great;Open+to+collaborations+🚀;Always+exploring+new+ideas" />
+</p>
+
+<p align="center">
+  🚀 Open for collaborations, freelance work & exciting opportunities  
+</p>
+
+---
+
+<p align="center">
+  <a href="https://hafabdulsami.netlify.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulsami966/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Abdul%20Sami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:abdulsami699@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/📩%20Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
