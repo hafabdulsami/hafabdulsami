@@ -19,8 +19,8 @@ jobs:
 
       - name: Commit and Push SVG
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "abdulsami699@gmail.com"
+          git config --local user.name "hafabdulsami"
           git add .
           git commit -m "Update koi pond animation" || exit 0
           git push
