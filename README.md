@@ -125,11 +125,11 @@ const build = (idea) => {
   ⚡ "I build systems, not just projects."
 </p>
 
-![My Koi Pond](./koi-pond.svg)
-
 
 <!-- Footer Wave -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
+
+![My Koi Pond](./koi-pond.svg)
