@@ -1,0 +1,26 @@
+name: Update Koi Pond
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-pond:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Generate Koi Fish Pond
+        uses: yalongwastaken/git-koi@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push SVG
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update koi pond animation" || exit 0
+          git push
