@@ -125,6 +125,9 @@ const build = (idea) => {
   ⚡ "I build systems, not just projects."
 </p>
 
+![My Koi Pond](./koi-pond.svg)
+
+
 <!-- Footer Wave -->
 
 <p align="center">
